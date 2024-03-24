@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/habit-app/static/css/main.1c487fe4.css",
-    "main.js": "/habit-app/static/js/main.5c41e91d.js",
+    "main.js": "/habit-app/static/js/main.9cca7446.js",
     "static/js/453.8941fb1f.chunk.js": "/habit-app/static/js/453.8941fb1f.chunk.js",
     "static/media/chocoPie.png": "/habit-app/static/media/chocoPie.516eff8f576d48b37fae.png",
     "service-worker.js": "/habit-app/service-worker.js",
     "static/media/logo.svg": "/habit-app/static/media/logo.6684be24b4d6f66e92fe8b348c367c8b.svg",
     "index.html": "/habit-app/index.html",
     "main.1c487fe4.css.map": "/habit-app/static/css/main.1c487fe4.css.map",
-    "main.5c41e91d.js.map": "/habit-app/static/js/main.5c41e91d.js.map",
+    "main.9cca7446.js.map": "/habit-app/static/js/main.9cca7446.js.map",
     "453.8941fb1f.chunk.js.map": "/habit-app/static/js/453.8941fb1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c487fe4.css",
-    "static/js/main.5c41e91d.js"
+    "static/js/main.9cca7446.js"
   ]
 }
