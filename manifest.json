@@ -1,6 +1,14 @@
 {
-  "short_name": "Habit app",
-  "name": "cool habit app by Dima",
+  "background_color": "#d9d9d9",
+  "description": "cool habit app by Dima",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "habit app",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "habits",
+  "start_url": ".",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "logo24.ico",
@@ -11,14 +19,26 @@
       "sizes": "64x64",
       "type": "image/png"
     },{
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },{
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },{
       "src": "logo24.ico",
       "sizes": "24x24",
       "type": "image/x-icon",
       "purpose": "maskable"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#ffffff",
-  "background_color": "#d9d9d9"
+  "id": "habitsApp",
+  "lang": "ru",
+  "categories": [
+    "health",
+    "social"
+  ]
 }
