@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/habit-app/static/css/main.2d3ffaa3.css",
-    "main.js": "/habit-app/static/js/main.99c68ff9.js",
+    "main.css": "/habit-app/static/css/main.06a1e529.css",
+    "main.js": "/habit-app/static/js/main.458e00b9.js",
     "static/js/453.8941fb1f.chunk.js": "/habit-app/static/js/453.8941fb1f.chunk.js",
     "static/media/chocoPie.png": "/habit-app/static/media/chocoPie.04e68ab5f462eb34844f.png",
     "service-worker.js": "/habit-app/service-worker.js",
     "static/media/logo.svg": "/habit-app/static/media/logo.6684be24b4d6f66e92fe8b348c367c8b.svg",
     "index.html": "/habit-app/index.html",
-    "main.2d3ffaa3.css.map": "/habit-app/static/css/main.2d3ffaa3.css.map",
-    "main.99c68ff9.js.map": "/habit-app/static/js/main.99c68ff9.js.map",
+    "main.06a1e529.css.map": "/habit-app/static/css/main.06a1e529.css.map",
+    "main.458e00b9.js.map": "/habit-app/static/js/main.458e00b9.js.map",
     "453.8941fb1f.chunk.js.map": "/habit-app/static/js/453.8941fb1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d3ffaa3.css",
-    "static/js/main.99c68ff9.js"
+    "static/css/main.06a1e529.css",
+    "static/js/main.458e00b9.js"
   ]
 }
